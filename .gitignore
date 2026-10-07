@@ -1,0 +1,12 @@
+dataset/**/*.jpg
+dataset/**/*.jpeg
+dataset/**/*.png
+pruebas/*.jpg
+pruebas/*.jpeg
+pruebas/*.png
+*.keras
+*.h5
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
